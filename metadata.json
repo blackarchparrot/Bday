@@ -1,0 +1,5 @@
+{
+  "name": "The Haunted Birthday",
+  "description": "A spooky, interactive birthday experience featuring ghosts, zombies, and creepy surprises.",
+  "requestFramePermissions": ["microphone"]
+}
